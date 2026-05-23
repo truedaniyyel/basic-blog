@@ -1,7 +1,7 @@
 export const SITE_SETTINGS = {
-  title: "Daniel Adrian's site",
+  title: "Suraj Pradhan's site",
   description: "A space to explore ideas and share what I'm learning",
-  owner: "Daniel Adrian",
+  owner: "Suraj Pradhan",
   ogImages:
     "https://res.cloudinary.com/dellp9a4z/image/upload/v1756758385/og-home_ejuqq8.png",
   socials: [
